@@ -1,0 +1,5 @@
+/target
+
+# for debugging purposes only
+/src/main.rs
+/img/
